@@ -11,10 +11,8 @@ h2{
 }
 h3{
     font-size: small;
-}:
-h4{
-    
 }
+    
 header{
     border-radius: 10px;
     color: black;
@@ -94,10 +92,6 @@ p{
     display: inline;
     margin: 70px;
 }
-.inline{
-   
-
-}
 .date{
     text-align: center;
     font-size: small;
@@ -109,7 +103,6 @@ p{
 }
 .left{
     text-align: left;
-
 }
 iframe{
    margin: 35px;
